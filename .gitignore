@@ -1,0 +1,6 @@
+.git
+.vscode
+.env
+db
+code/travel/cache
+code/travel/config.ini
